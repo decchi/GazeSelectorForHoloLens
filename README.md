@@ -14,5 +14,6 @@ Licensed under the MIT License. Copyright (c) Microsoft Corporation.
 
 ## License
 - [MIT License](https://github.com/decchi/GazeSelectorForHoloLens/blob/master/LICENSE)
+this software includes the work that is distributed in the Apache License 2.0
 
 ## References

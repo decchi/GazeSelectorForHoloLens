@@ -212,7 +212,7 @@ GameObject:
   - component: {fileID: 4960216897258734}
   - component: {fileID: 114338812603595060}
   m_Layer: 2
-  m_Name: DefaultCursor
+  m_Name: DefaultCursorWithGazeSelector
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

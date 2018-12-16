@@ -1,7 +1,8 @@
 # GazeSelectorForHoloLens
 UI for Selection by Gaze made with HoloToolKit and VR-Samples
 
-https://raw.githubusercontent.com/wiki/decchi/GazeSelectorForHoloLens/images/GazeSelector.gif
+![demo](https://raw.githubusercontent.com/wiki/decchi/GazeSelectorForHoloLens/images/GazeSelector.gif)
+
 
 ## Tested Environment
 - Unity 2017.4.2f2

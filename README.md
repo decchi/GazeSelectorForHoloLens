@@ -1,6 +1,8 @@
 # GazeSelectorForHoloLens
 UI for Selection by Gaze made with HoloToolKit and VR-Samples
 
+![demo](https://raw.githubusercontent.com/wiki/decchi/GazeSelectorForHoloLens/images/GazeSelector.gif)
+
 
 ## Tested Environment
 - Unity 2017.4.2f2
@@ -11,6 +13,19 @@ UI for Selection by Gaze made with HoloToolKit and VR-Samples
 You need to import the following assets.
 - [MixedRealityToolkit-Unity 2017.4.1.0](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases/tag/2017.4.1.0)  
 Licensed under the MIT License. Copyright (c) Microsoft Corporation.  
+
+## Usage
+1. Import MixedRealityToolkit-Unity.
+2. Import GazeSelector.unitypackage in [releases](https://github.com/decchi/GazeSelectorForHoloLens/releases).
+3. Add DefaultCursorWithGazeSelector.prefab in GazeSelector to your Scene.
+4. Attach GazeSelectorTarget.cs to the Target Object and Set Unity Event.
+
+## Sample
+1. Import MixedRealityToolkit-Unity. And Setup Project.
+2. Import GazeSelector.unitypackage.
+3. Import GazeSelectorSample.unitypackage.
+4. Open GazeSelector.unity in HoloToolkitExtensionSample.
+
 
 ## License
 - [MIT License](https://github.com/decchi/GazeSelectorForHoloLens/blob/master/LICENSE)  

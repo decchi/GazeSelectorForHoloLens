@@ -16,7 +16,7 @@ Licensed under the MIT License. Copyright (c) Microsoft Corporation.
 
 ## Usage
 1. Import MixedRealityToolkit-Unity.
-2. Import GazeSelector.unitypackage in [release](https://github.com/decchi/GazeSelectorForHoloLens/releases).
+2. Import GazeSelector.unitypackage in [releases](https://github.com/decchi/GazeSelectorForHoloLens/releases).
 3. Add DefaultCursor.prefab in GazeSelector to your Scene.
 4. Attach GazeSelectorTarget.cs to the Target Object and Set Unity Event.
 
